@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DailyActivitySchedule</string>
+    <string name="activtiy_daily_add">Daily Activity Schedule</string>
+    <string name="activtiy_daily_edited">Daily Activity Edited</string>
+    <string name="activtiy_name_day">Name of the day</string>
+    <string name="activity_daily">Schedul in here!</string>
+    <string name="activity_update">Update</string>
+    <string name="activity_cancel">Cancel</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="c_password">Confirm password</string>
+    <string name="name">Name</string>
+    <string name="login_btn_text">Login</string>
+    <string name="register_account_login_here">Already have an account? Login</string>
+    <string name="login_account_register_here">Don\'t have an account? Register here</string>
+    <string name="register_btn_text">Register</string>
+
+</resources>
